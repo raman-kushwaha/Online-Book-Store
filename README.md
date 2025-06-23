@@ -1,2 +1,1 @@
-# Online-Book-Store
-Data analyst project on online book store 
+This Project is Based on 'Online-Book-Store' by using pg-sql (PostgreSQL) Database 
